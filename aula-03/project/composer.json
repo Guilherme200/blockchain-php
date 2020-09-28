@@ -1,0 +1,5 @@
+{
+    "require": {
+        "blockchain/blockchain": "^1.4"
+    }
+}
